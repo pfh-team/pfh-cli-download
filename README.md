@@ -13,7 +13,7 @@
 <br>Versão: 1.0.3</p>
 
 ## Requerimentos
-Java instalado
+JVM
 
 ## Configure
 Adicione o caminho da pasta "pfh" na variável de ambiente "PATH" e no Unix-like dê a permissão 755 para a pasta "pfh" executando o comando "chmod -R 755 [pfhdir]"
