@@ -1,6 +1,9 @@
 # PFH Command-Line Interface
-<p>Versão: 1.0.3</p>
+
+## Informações
 <p>Baixe: https://prezaofreehack-api.herokuapp.com/v2/assets/PfhCli.zip</p>
+<p>Criado por: PFH Team</p>
+<p>Versão: 1.0.3</p>
 
 ## Sistemas Operacionais
 <p>
