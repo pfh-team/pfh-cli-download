@@ -8,7 +8,7 @@
 </p>
 
 ## Informações
-<p style="color:#fff">Baixe: https://prezaofreehack-api.herokuapp.com/v2/assets/PfhCli.zip
+<p>Baixe: https://prezaofreehack-api.herokuapp.com/v2/assets/PfhCli.zip
 <br>Criado por: PFH Team
 <br>Versão: 1.0.3</p>
 
