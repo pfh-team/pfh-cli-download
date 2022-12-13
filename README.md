@@ -8,3 +8,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="100" height="100" />
 <img src="https://logos-download.com/wp-content/uploads/2020/06/Apple_Mac_OS_Logo.png" width="100" height="100" />
 </p>
+
+## Requerimentos
+Java instalado
+
+## Configure
+Adicione o caminho da pasta "pfh" na variável de ambiente "PATH" e no Unix-like dê a permissão 755 para a pasta "pfh" executando o comando "chmod -R 755 [pfhdir]"
+
+## Execute
+Use o comando "pfh" para mostrar as opções disponíveis
