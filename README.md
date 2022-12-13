@@ -1,3 +1,2 @@
 # PfhCli
-
-<span style="color: green"> Some green text </span>
+https://placehold.it/150/ffffff/ff0000?text=hello
