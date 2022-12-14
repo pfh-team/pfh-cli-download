@@ -16,7 +16,7 @@
 Java Virtual Machine (JVM)
 
 ## Configure
-Adicione o caminho da pasta "pfh" na variável de ambiente "PATH" e no Unix-like dê a permissão 755 para a pasta "pfh" executando o comando "chmod -R 755 [pfhdir]"
+Adicione o caminho da pasta "pfh" na variável de ambiente "PATH" e no Unix-like dê a permissão 755 para a pasta "pfh" executando o comando "chmod +x [pfhdir]"
 
 ## Execute
 Use o comando "pfh" para mostrar as opções disponíveis
