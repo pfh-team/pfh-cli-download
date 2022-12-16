@@ -9,7 +9,7 @@ Interface de linha de comandos do Prezão Free Hack
 </p>
 
 ## Informações
-<p>Baixe: https://github.com/PfhTeam/PfhCli/releases/tag/pfh-cli-1.0.3
+<p>Baixe: https://github.com/PfhTeam/PfhCli/releases/tag/v1.0.3
 <br>Criado por: PFH Team</p>
 
 ## Requerimentos
