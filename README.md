@@ -9,9 +9,8 @@ Interface de linha de comandos do Prezão Free Hack
 </p>
 
 ## Informações
-<p>Baixe: https://prezaofreehack-api.herokuapp.com/v2/assets/PfhCli.zip
-<br>Criado por: PFH Team
-<br>Versão: 1.0.3</p>
+<p>Baixe: https://github.com/PfhTeam/PfhCli/releases/tag/pfh-cli
+<br>Criado por: PFH Team</p>
 
 ## Requerimentos
 Java Virtual Machine (JVM)
