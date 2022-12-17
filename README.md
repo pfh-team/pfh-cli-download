@@ -9,14 +9,14 @@ Interface de linha de comandos do Prezão Free Hack
 </p>
 
 ## Informações
-<p>Baixe: https://github.com/PfhTeam/PfhCli/releases/tag/v1.0.3
-<br>Criado por: PFH Team</p>
+<p>Baixe https://github.com/PfhTeam/PfhCli/releases/tag/v1.0.3
+<br>Criado por PFH Team</p>
 
 ## Requerimentos
 Java Virtual Machine (JVM)
 
 ## Configure
-Adicione o caminho da pasta "pfh" na variável de ambiente "PATH" e no Unix-like dê a permissão de executar arquivos binários para a pasta "pfh" executando o comando "chmod +x [pfhdir]"
+Adicione o caminho da pasta "pfh" na variável de ambiente "PATH" e no Unix-like dê a permissão de executar arquivos binários para a pasta "pfh" executando o comando "chmod +x {PFH_DIR}"
 
 ## Execute
 Use o comando "pfh" para mostrar as opções disponíveis
