@@ -13,7 +13,7 @@ Interface de linha de comandos do Prezão Free Hack
 <br>Criado por PFH Team</p>
 
 ## Atenção
-A função AllowedUIDs Options está disponível apenas para usuários Premium
+O AllowedUIDs Options está liberado apenas para usuários Premium
 
 ## Requerimentos
 Java Virtual Machine (JVM)
