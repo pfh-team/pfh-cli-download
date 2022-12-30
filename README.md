@@ -20,3 +20,6 @@ Adicione o caminho da pasta "pfh" na variável de ambiente "PATH" e no Unix-like
 
 ## Execute
 Use o comando "pfh" para mostrar as opções disponíveis
+
+## Atenção
+O AllowedUIDs Options está disponível apenas para usuários Premium
