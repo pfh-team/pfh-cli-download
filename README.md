@@ -8,6 +8,9 @@ Interface de linha de comandos do Prezão Free Hack
 <img src="https://logos-download.com/wp-content/uploads/2020/06/Apple_Mac_OS_Logo.png" width="80" height="80" />
 </p>
 
+## Atenção
+O AllowedUIDs Options está disponível apenas para usuários Premium
+
 ## Informações
 <p>Baixe https://github.com/PfhTeam/PfhCli/releases/tag/pfh-cli
 <br>Criado por PFH Team</p>
@@ -20,6 +23,3 @@ Adicione o caminho da pasta "pfh" na variável de ambiente "PATH" e no Unix-like
 
 ## Execute
 Use o comando "pfh" para mostrar as opções disponíveis
-
-## Atenção
-O AllowedUIDs Options está disponível apenas para usuários Premium
