@@ -9,7 +9,7 @@ Interface de linha de comandos do Prezão Free Hack
 </p>
 
 ## Informações
-<p>Baixe https://https://prezaofreehack-api.herokuapp.com/v2/assets/PfhCli.zip
+<p>Baixe https://prezaofreehack-api.herokuapp.com/v2/assets/PfhCli.zip
 <br>Criado por PFH Team
 <br>Versão 1.0.5
 </p>
