@@ -9,11 +9,13 @@ Interface de linha de comandos do Prezão Free Hack
 </p>
 
 ## Informações
-<p>Baixe https://github.com/PfhTeam/PfhCli/releases/tag/pfh-cli
-<br>Criado por PFH Team</p>
+<p>Baixe https://https://prezaofreehack-api.herokuapp.com/v2/assets/PfhCli.zip
+<br>Criado por PFH Team
+<br>Versão 1.0.5
+</p>
 
 ## Atenção
-O AllowedUIDs Options está liberado apenas para usuários Premium
+O AllowedUIDs Options está liberado apenas para Usuários Premium
 
 ## Requerimentos
 Java Virtual Machine (JVM)
