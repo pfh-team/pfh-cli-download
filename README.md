@@ -14,9 +14,6 @@ Interface de linha de comandos do Prezão Free Hack
 <br>Versão 1.0.5
 </p>
 
-## Atenção
-O Allowed UIDs Options está liberado apenas para Usuários Premium
-
 ## Requerimentos
 Java Virtual Machine (JVM)
 
@@ -25,3 +22,9 @@ Adicione o caminho da pasta "pfh" na variável de ambiente "PATH" e no Unix-like
 
 ## Execute
 Use o comando "pfh" para mostrar as opções disponíveis
+
+##Exemplos
+###Entrar na conta
+pfh login {PHONE_NUMBER}
+###Gerar moedas
+pfh generate
