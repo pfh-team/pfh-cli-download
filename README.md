@@ -11,8 +11,7 @@ Interface de linha de comandos do Prezão Free Hack
 ## Informações
 <p>Baixe https://prezaofreehack-api.herokuapp.com/v2/assets/pfh-cli.zip
 <br>Criado por PFH Team
-<br>Versão 1.0.5
-</p>
+<br>Versão 1.0.5</p>
 
 ## Requerimentos
 Java Virtual Machine (JVM)
@@ -24,5 +23,5 @@ Adicione o caminho da pasta "pfh" na variável de ambiente "PATH" e no Unix-like
 Use o comando "pfh" para mostrar as opções disponíveis
 
 ## Exemplos
-Entrar na conta: pfh login {PHONE_NUMBER}
-Gerar moedas: pfh generate
+<p>Entrar na conta: pfh login {PHONE_NUMBER}
+<br>Gerar moedas: pfh generate</p>
