@@ -11,18 +11,18 @@ Interface de linha de comandos do Prezão Free Hack
 ## Informações
 Baixe https://prezaofreehack-api.herokuapp.com/v2/assets/pfh-cli.zip
 <br>
-Criado por PFH Team
+Criado por ```PFH Team```
 <br>
-Versão 1.0.5
+Versão ```1.0.5```
 
 ## Requerimentos
 Java Virtual Machine (JVM)
 
 ## Configure
-Adicione o caminho da pasta "pfh" na variável de ambiente "PATH" e no Unix-like dê a permissão de executar arquivos binários para a pasta "pfh" executando o comando "chmod +x {PFH_DIR}"
+Adicione o caminho da pasta ```pfh``` na variável de ambiente ```PATH``` e no Unix-like dê a permissão de executar arquivos binários para a pasta ```pfh``` executando o comando ```chmod +x {PFH_DIR}```
 
 ## Execute
-Use o comando "pfh" para mostrar as opções disponíveis
+Use o comando ```pfh``` para mostrar as opções disponíveis
 
 ## Exemplos
 Entrar na conta ```pfh login 12345678909```
