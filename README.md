@@ -24,7 +24,5 @@ Adicione o caminho da pasta "pfh" na variável de ambiente "PATH" e no Unix-like
 Use o comando "pfh" para mostrar as opções disponíveis
 
 ## Exemplos
-### Entrar na conta
-pfh login {PHONE_NUMBER}
-### Gerar moedas
-pfh generate
+Entrar na conta: pfh login {PHONE_NUMBER}
+Gerar moedas: pfh generate
