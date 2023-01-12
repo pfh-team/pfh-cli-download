@@ -24,9 +24,11 @@ Adicione o caminho da pasta ```pfh``` na variável de ambiente ```PATH``` e no U
 ## Execute
 Use o comando ```pfh``` para mostrar as opções disponíveis
 
-## Exemplos
+## Uso
 ### Opções Principais
 Entrar na conta ```pfh login {NUMERO_DE_TELEFONE}```
+<br>
+Sair na conta ```pfh logout```
 <br>
 Gerar moedas ```pfh generate```
 <br>
