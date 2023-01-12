@@ -28,3 +28,5 @@ Use o comando ```pfh``` para mostrar as opções disponíveis
 Entrar na conta ```pfh login 12345678909```
 <br>
 Gerar moedas ```pfh generate```
+<br>
+Adicionar UID na lista de permitidos ```pfh alloweduids:add {ID_DO_USUARIO}```
