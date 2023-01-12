@@ -25,10 +25,12 @@ Adicione o caminho da pasta ```pfh``` na variável de ambiente ```PATH``` e no U
 Use o comando ```pfh``` para mostrar as opções disponíveis
 
 ## Exemplos
+### Opções Principais
 Entrar na conta ```pfh login {NUMERO_DE_TELEFONE}```
 <br>
 Gerar moedas ```pfh generate```
 <br>
+### Opções de UIDs permitidos
 Mostrar UIDs da lista de permitidos ```pfh alloweduids```
 <br>
 Adicionar UID na lista de permitidos ```pfh alloweduids:add {ID_DE_USUARIO}```
