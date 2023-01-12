@@ -30,7 +30,7 @@ Entrar na conta ```pfh login {NUMERO_DE_TELEFONE}```
 <br>
 Gerar moedas ```pfh generate```
 <br>
-### Opções de UIDs permitidos
+### Opções de UIDs Permitidos
 Mostrar UIDs da lista de permitidos ```pfh alloweduids```
 <br>
 Adicionar UID na lista de permitidos ```pfh alloweduids:add {ID_DE_USUARIO}```
