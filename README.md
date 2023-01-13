@@ -28,7 +28,7 @@ Use o comando ```pfh``` para mostrar as opções disponíveis
 ### Opções Principais
 Entrar na conta ```pfh login {NUMERO_DE_TELEFONE}```
 <br>
-Sair na conta ```pfh logout```
+Sair da conta ```pfh logout```
 <br>
 Gerar moedas ```pfh generate```
 <br>
