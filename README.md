@@ -19,7 +19,7 @@ Versão ```1.0.5```
 Java Virtual Machine (JVM)
 
 ## Configure
-Adicione o caminho da pasta ```pfh``` na variável de ambiente ```PATH``` e no Unix-like dê a permissão de executar arquivos binários para a pasta ```pfh``` executando o comando ```chmod +x {PFH_DIR}```
+Adicione o caminho da pasta ```pfh``` na variável de ambiente ```PATH``` e no Unix-like dê a permissão de executar arquivos binários para a pasta ```pfh``` executando o comando ```chmod +x {PFH_HOME}```
 
 ## Execute
 Use o comando ```pfh``` para mostrar as opções disponíveis
@@ -33,10 +33,10 @@ Sair da conta ```pfh logout```
 Gerar moedas ```pfh generate```
 <br>
 ### Opções de UIDs Permitidos
-Mostrar UIDs da lista de permitidos ```pfh alloweduids```
+Mostrar UIDs ```pfh alloweduids```
 <br>
-Adicionar UID na lista de permitidos ```pfh alloweduids:add {ID_DE_USUARIO}```
+Adicionar UID ```pfh alloweduids:add {ID_DE_USUARIO}```
 <br>
-Remover UID da lista de permitidos ```pfh alloweduids:remove {ID_DE_USUARIO}```
+Remover UID ```pfh alloweduids:remove {ID_DE_USUARIO}```
 <br>
-Limpar UIDs da lista de permitidos ```pfh alloweduids:clear```
+Limpar UIDs ```pfh alloweduids:clear```
