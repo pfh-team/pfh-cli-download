@@ -13,13 +13,13 @@ Baixe https://prezaofreehack-api.herokuapp.com/v2/assets/pfh-cli.zip
 <br>
 Criado por ```PFH Team```
 <br>
-Versão ```1.0.5```
+Versão ```1.0.6```
 
 ## Requerimentos
 Java Virtual Machine (JVM)
 
 ## Configure
-Adicione o caminho da pasta ```pfh``` na variável de ambiente ```PATH``` e no Unix-like dê a permissão de executar arquivos binários para a pasta ```pfh``` executando o comando ```chmod +x {PFH_HOME}```
+Adicione o caminho da pasta ```pfh/bin``` na variável de ambiente ```PATH``` e no Unix-like dê a permissão de executar arquivos binários para a pasta ```pfh``` executando o comando ```chmod +x {PFH_HOME}```
 
 ## Execute
 Use o comando ```pfh``` para mostrar as opções disponíveis
