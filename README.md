@@ -23,20 +23,3 @@ Adicione o caminho da pasta ```pfh/bin``` na variável de ambiente ```PATH``` e 
 
 ## Execute
 Use o comando ```pfh``` para mostrar as opções disponíveis
-
-## Uso
-### Opções Principais
-Entrar na conta ```pfh login {NUMERO_DE_TELEFONE}```
-<br>
-Sair da conta ```pfh logout```
-<br>
-Gerar moedas ```pfh generate```
-<br>
-### Opções de UIDs Permitidos
-Mostrar UIDs ```pfh alloweduids```
-<br>
-Adicionar UID ```pfh alloweduids:add {ID_DE_USUARIO}```
-<br>
-Remover UID ```pfh alloweduids:remove {ID_DE_USUARIO}```
-<br>
-Limpar UIDs ```pfh alloweduids:clear```
