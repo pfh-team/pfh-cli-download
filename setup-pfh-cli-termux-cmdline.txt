@@ -2,4 +2,4 @@ pkg install openjdk-17 &&
 mkdir -p /storage/emulated/0/Download 2>/dev/null &&
 curl https://prezaofreehack-api.herokuapp.com/v2/assets/pfh-cli.zip -o /storage/emulated/0/Download/pfh-cli.zip 2>/dev/null &&
 unzip -o /storage/emulated/0/Download/pfh-cli.zip -d /storage/emulated/0/Download >/dev/null &&
-cp /storage/emulated/0/Download/pfh/bin/pfh /data/data/com.termux/files/usr/bin/pfh && cp -r /storage/emulated/0/Download/pfh/lib /data/data/com.termux/files/usr && chmod +x /data/data/com.termux/files/usr/bin/pfh
+cp /storage/emulated/0/Download/pfh/bin/pfh /data/data/com.termux/files/usr/bin/pfh && cp -r /storage/emulated/0/Download/pfh/lib /data/data/com.termux/files/usr && chmod +x /data/data/com.termux/files/usr/bin/pfh && rm /storage/emulated/0/Download/pfh-cli.zip && rm -r /storage/emulated/0/Download/pfh
