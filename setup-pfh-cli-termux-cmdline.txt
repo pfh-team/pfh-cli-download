@@ -1,4 +1,1 @@
-mkdir -p /storage/emulated/0/Download 2>/dev/null &&
-curl https://prezaofreehack-api.herokuapp.com/v2/assets/pfh-cli.zip -o /storage/emulated/0/Download/pfh-cli.zip 2>/dev/null &&
-unzip -o /storage/emulated/0/Download/pfh-cli.zip -d /storage/emulated/0/Download >/dev/null &&
-cp -r /storage/emulated/0/Download/pfh /data/data/com.termux/files/pfh && chmod +x /data/data/com.termux/files/pfh/bin && export PATH=$PATH:/data/data/com.termux/files/pfh/bin
+
