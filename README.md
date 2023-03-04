@@ -3,7 +3,7 @@ Interface de linha de comandos do Prezão Free Hack
 
 ## Sistemas Operacionais
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/170px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" width="80" height="80" />
+<img src="https://download1594.mediafire.com/388uq55o0jigyH0ln0kKgY3SdQWqMDVN0_vcUl8ck191VREXkEd-qTTq0vstZyHHH_ajknZPB3ZqgMLRMEydgXyDXPJzW0F8/jscv9nzvboluub8/windows.png" width="80" height="80" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="80" height="80" />
 <img src="https://logos-download.com/wp-content/uploads/2020/06/Apple_Mac_OS_Logo.png" width="80" height="80" />
 </p>
