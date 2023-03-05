@@ -1,8 +1,6 @@
 # PFH Command Line Interface
 Interface de linha de comandos do Prezão Free Hack
 
-![This is an image](https://prezaofreehack-api.herokuapp.com/v2/cli/version)
-
 ## Sistemas Operacionais
 <p>
   <img src="/operating_system_icons/windows.png" width="70" height="70">
