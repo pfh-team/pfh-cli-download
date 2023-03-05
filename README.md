@@ -10,7 +10,6 @@ Interface de linha de comandos do Prezão Free Hack
 </p>
 
 ## Informações
-<br>
 Criado por ```PFH Team```
 <br>
 Versão ```1.0.6```
