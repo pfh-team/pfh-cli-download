@@ -1,6 +1,8 @@
 # PFH Command Line Interface
 Interface de linha de comandos do Prezão Free Hack
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ## Sistemas Operacionais
 <p>
   <img src="/operating_system_icons/windows.png" width="70" height="70">
