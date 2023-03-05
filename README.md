@@ -1,7 +1,7 @@
 # PFH Command Line Interface
 Interface de linha de comandos do Prezão Free Hack
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://prezaofreehack-api.herokuapp.com/v2/cli/version)
 
 ## Sistemas Operacionais
 <p>
