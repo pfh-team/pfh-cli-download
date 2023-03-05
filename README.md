@@ -15,6 +15,7 @@ Baixe https://prezaofreehack-api.herokuapp.com/v2/assets/pfh-cli.zip
 Criado por ```PFH Team```
 <br>
 Versão ```1.0.6```
+[Clique aqui para baixar]:https://prezaofreehack-api.herokuapp.com/v2/assets/pfh-cli.zip
 
 ## Requerimentos
 Java Virtual Machine (JVM)
