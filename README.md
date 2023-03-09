@@ -20,7 +20,7 @@ Versão ```1.0.7```
 Java Virtual Machine (JVM)
 
 ## Configure
-Adicione o caminho da pasta ```/path/to/pfh/bin``` na variável de ambiente ```PATH``` e no Unix-like dê a permissão de executar arquivos binários para a pasta ```/path/to/pfh/bin``` executando o comando ```chmod +x /path/to/pfh/bin```
+Adicione o caminho da pasta ```/path/to/pfh/bin``` na variável de ambiente ```PATH``` e no ```Unix-like```, dê a permissão de executar arquivos binários para pasta ```/path/to/pfh/bin``` executando o comando ```chmod +x /path/to/pfh/bin```
 
 ## Execute
 Use o comando ```pfh``` para mostrar as opções disponíveis
