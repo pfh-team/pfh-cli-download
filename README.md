@@ -14,7 +14,7 @@ Criado por ```PFH Team```
 <br>
 Versão ```1.0.7```
 <br>
-[Baixar](https://prezaofreehack-api.herokuapp.com/v2/assets/pfh-cli.zip)
+[Clique aqui para baixar](https://prezaofreehack-api.herokuapp.com/v2/assets/pfh-cli.zip)
 
 ## Requisitos
 Java Virtual Machine (JVM)
