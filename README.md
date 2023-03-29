@@ -7,6 +7,7 @@ Interface de linha de comandos do Prezão Free Hack
   <img src="/operating_system_icons/linux.png" width="70" height="70">
   <img src="/operating_system_icons/macos.png" width="70" height="70">
   <img src="/operating_system_icons/android.png" width="70" height="70">
+  <img src="/operating_system_icons/ios.png" width="70" height="70">
 </p>
 
 ## Informações
