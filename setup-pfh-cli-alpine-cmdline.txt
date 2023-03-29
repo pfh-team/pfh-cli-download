@@ -1,0 +1,4 @@
+apk add bash openjdk8 &&
+wget https://prezaofreehack-api.herokuapp.com/v2/assets/pfh-cli.zip -O /tmp/pfh-cli.zip 2>/dev/null &&
+unzip -o /tmp/pfh-cli.zip -d /tmp >/dev/null &&
+cp /tmp/pfh/bin/pfh /usr/bin/pfh && cp -r /tmp/pfh/lib /usr && chmod +x /usr/bin/pfh
