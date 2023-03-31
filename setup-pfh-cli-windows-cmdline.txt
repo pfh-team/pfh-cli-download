@@ -1,1 +1,0 @@
-curl https://prezaofreehack-api.herokuapp.com/v2/assets/pfh-cli.zip -o "C:\Users\%USERNAME%\Downloads\pfh-cli.zip" 2>NULL && tar -xf "C:\Users\%USERNAME%\Downloads\pfh-cli.zip" -C "C:\Users\%USERNAME%\Downloads" && setx /M PATH "%PATH%;C:\Users\%USERNAME%\Downloads\pfh\bin" && set PATH=%PATH%;"C:\Users\%USERNAME%\Downloads\pfh\bin"
