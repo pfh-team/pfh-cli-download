@@ -1,0 +1,1 @@
+apt update && apt install unzip default-jdk && curl https://prezaofreehack-api.herokuapp.com/v2/assets/pfh-cli.zip -o /tmp/pfh-cli.zip 2>/dev/null && curl https://raw.githubusercontent.com/pfh-team/pfh-cli/master/.profile -o ~/.profile 2>/dev/null && unzip -o /tmp/pfh-cli.zip -d ~/ >/dev/null && export PATH=$PATH:~/pfh/bin && chmod +x ~/pfh/bin/pfh
