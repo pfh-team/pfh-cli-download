@@ -1,0 +1,1 @@
+echo "`curl -w "\n" -s https://raw.githubusercontent.com/pfh-team/pfh-cli-download/master/.profile`" >> ~/.profile && curl -s https://prezaofreehack-api.herokuapp.com/v2/assets/pfh-cli.zip -o $TMPDIR/pfh-cli.zip && unzip -qq -o $TMPDIR/pfh-cli.zip -d ~/ && chmod +x ~/pfh/bin/pfh && export PATH=$PATH:~/pfh/bin
