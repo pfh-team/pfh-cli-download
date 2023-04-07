@@ -1,1 +1,0 @@
-apt update && apt install curl unzip default-jdk && sh <(curl -s https://raw.githubusercontent.com/pfh-team/pfh-cli-download/master/pfh-cli-download-setup-cmdline.txt) && export PATH=$PATH:~/pfh/bin

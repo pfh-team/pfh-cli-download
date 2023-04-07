@@ -1,1 +1,1 @@
-pkg install openjdk-17 && sh <(curl -s https://raw.githubusercontent.com/pfh-team/pfh-cli-download/master/pfh-cli-download-setup-cmdline.txt) && export PATH=$PATH:~/pfh/bin
+pkg install openjdk-17 && sh <(curl -s https://raw.githubusercontent.com/pfh-team/pfh-cli-download/master/pfh-cli-download-setup-unixlike-cmdline.txt) && export PATH=$PATH:~/pfh/bin
