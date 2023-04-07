@@ -1,1 +1,1 @@
-apk add curl unzip openjdk8 && sh <(curl -s https://raw.githubusercontent.com/pfh-team/pfh-cli-download/master/pfh-cli-download-setup-cmdline.txt)
+apk add curl unzip openjdk8 && sh <(curl -s https://raw.githubusercontent.com/pfh-team/pfh-cli-download/master/pfh-cli-download-setup-cmdline.txt) && export PATH=$PATH:~/pfh/bin
