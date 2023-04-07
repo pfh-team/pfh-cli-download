@@ -1,4 +1,4 @@
-# PFH Command-Line Interface
+# PFH Command Line Interface
 Interface de linha de comandos do Prezão Free Hack
 
 ## Sistemas Operacionais
@@ -13,7 +13,7 @@ Interface de linha de comandos do Prezão Free Hack
 ## Informações
 Criado por ```PFH Team```
 <br>
-Versão ```1.0.8```
+Versão ```1.0.9```
 <br>
 [Clique aqui para baixar](https://prezaofreehack-api.herokuapp.com/v2/assets/pfh-cli.zip)
 
