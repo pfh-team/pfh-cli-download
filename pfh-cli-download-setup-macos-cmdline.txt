@@ -1,1 +1,1 @@
-brew update && brew install curl unzip openjdk && sh <(curl -s https://raw.githubusercontent.com/pfh-team/pfh-cli-download/master/pfh-cli-download-setup-unixlike-cmdline.txt) && export PATH=$PATH:~/pfh/bin
+brew update && brew upgrade && brew install curl unzip openjdk && sh <(curl -s https://raw.githubusercontent.com/pfh-team/pfh-cli-download/master/pfh-cli-download-setup-unixlike-cmdline.txt) && export PATH=$PATH:~/pfh/bin
