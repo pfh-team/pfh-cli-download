@@ -3,11 +3,11 @@ Interface de linha de comando do Prezão Free Hack
 
 ## Sistemas Operacionais
 <p>
-  <img src="/operating_system_icons/windows.png" width="50" height="50">
-  <img src="/operating_system_icons/linux.png" width="50" height="50">
-  <img src="/operating_system_icons/macos.png" width="70" height="70">
-  <img src="/operating_system_icons/android.png" width="70" height="70">
-  <img src="/operating_system_icons/ios.png" width="70" height="70">
+  <img src="/operating_system_icons/windows.png" width="60" height="60">
+  <img src="/operating_system_icons/linux.png" width="60" height="60">
+  <img src="/operating_system_icons/macos.png" width="60" height="60">
+  <img src="/operating_system_icons/android.png" width="60" height="60">
+  <img src="/operating_system_icons/ios.png" width="60" height="60">
 </p>
 
 ## Informações
