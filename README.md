@@ -13,7 +13,7 @@ Interface de linha de comando do Prezão Free Hack
 ## Informações
 Criado por ```PFH Team```
 <br>
-Versão ```1.1.0```
+Versão ```1.1.1```
 <br>
 [Clique aqui para baixar](https://prezaofreehack-api.herokuapp.com/v2/assets/pfh-cli.zip)
 
