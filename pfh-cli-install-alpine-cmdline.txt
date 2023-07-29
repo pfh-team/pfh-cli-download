@@ -1,1 +1,1 @@
-apk update && apk upgrade && apk add curl unzip openjdk8 && sh <(curl -s https://raw.githubusercontent.com/pfh-team/pfh-cli-download/master/pfh-cli-download-setup-unixlike-cmdline.txt) && export PATH=$PATH:~/pfh/bin
+apk update && apk upgrade && apk add curl unzip openjdk8 && sh <(curl -s https://raw.githubusercontent.com/pfh-team/pfh-cli-download/master/pfh-cli-install-unixlike-cmdline.txt) && export PATH=$PATH:~/pfh/bin
